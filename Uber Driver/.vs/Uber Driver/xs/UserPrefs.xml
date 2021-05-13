@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{65D37DD0-ACF2-4FC1-B0EC-E30D486701AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Uber_220Driver AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.my_device_1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uber Driver/Activities/LoginActivity.cs">
+    <Files>
+      <File FileName="Uber Driver/Activities/LoginActivity.cs" Line="55" Column="39" />
+      <File FileName="Uber Driver/MainActivity.cs" Line="45" Column="54" />
+      <File FileName="Uber Driver/Helpers/MapFunctionHelper.cs" Line="212" Column="1" />
+      <File FileName="Uber Driver/Fragments/CollectPaymentFragment.cs" Line="26" Column="1" />
+      <File FileName="Uber Driver/Resources/values/colors.xml" Line="14" Column="44" />
+      <File FileName="Uber Driver/EventListeners/NewTripEventListener.cs" Line="4" Column="1" />
+      <File FileName="Uber Driver/EventListeners/AvailablityListener.cs" Line="24" Column="10" />
+      <File FileName="Uber Driver/Fragments/HomeFragment.cs" Line="135" Column="1" />
+      <File FileName="Uber Driver/Resources/values/styles.xml" Line="16" Column="59" />
+      <File FileName="Uber Driver/Helpers/LocationCallbackHelper.cs" Line="16" Column="10" />
+      <File FileName="Uber Driver/EventListeners/RideDetailsListener.cs" Line="13" Column="25" />
+      <File FileName="Uber Driver/DataModels/RideDetails.cs" Line="8" Column="46" />
+      <File FileName="Uber Driver/Resources/drawable/uberroundbutton.xml" Line="7" Column="40" />
+      <File FileName="Uber Driver/Helpers/AppDataHelper.cs" Line="1" Column="1" />
+      <File FileName="Uber Driver/Activities/SplashActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
